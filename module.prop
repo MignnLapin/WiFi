@@ -2,6 +2,6 @@ id=wifi_guard
 name=WiFi 自动开关
 version=1.9
 versionCode=9
-author=MignnLapin
+author=MignnLapin&千问
 description=进入手机保存过的WiFi区域时自动开启WiFi,关闭移动数据\nWiFi断开时自动关闭WiFi开启移动数据
 updateJson=
