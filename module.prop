@@ -4,4 +4,4 @@ version=1.9
 versionCode=9
 author=MignnLapin&千问
 description=进入手机保存过的WiFi区域时自动开启WiFi,关闭移动数据\nWiFi断开时自动关闭WiFi开启移动数据
-updateJson=
+updateJson=https://raw.githubusercontent.com/MignnLapin/WiFi/main/update.json
